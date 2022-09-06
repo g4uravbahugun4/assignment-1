@@ -72,7 +72,7 @@ by the founders, who each of them has a common end objective to innovate new cre
    <div   className='flex md:flex md:flex-col  justify-between  '>
 
    
-   <div className='flex flex-col    justify-center items-center '>
+   <div className='flex flex-col md:mt-14    justify-center items-center '>
         
         <div className='w-auto '>
               <img src='\product-description 1.png' className='w-20'  />
@@ -93,7 +93,7 @@ by the founders, who each of them has a common end objective to innovate new cre
              </div> 
      </div>
 
-     <div className='flex flex-col   justify-center items-center '>
+     <div className='flex flex-col  md:mt-14 justify-center items-center '>
         
             <div className='w-auto '>
               <img src='\product-description 2.png' className='w-20'/>
@@ -115,7 +115,7 @@ by the founders, who each of them has a common end objective to innovate new cre
   </div>
 
 
-  <div className='flex flex-col  justify-center items-center '>
+  <div className='flex flex-col md:mt-14  justify-center items-center '>
         
             <div className='w-auto '>
               <img src='\product-description 3.png' className='w-20'  />
@@ -141,15 +141,17 @@ by the founders, who each of them has a common end objective to innovate new cre
 
      
    </div>
+   
+   <hr/>
 
    <div className='flex w-full justify-center items-center'>
    <h1 className='text-2xl p-6'>
    Mobile Specialist
     </h1>
     </div>
-   <div   className='flex justify-center md:flex md:flex-col md:justify-evenly  items-center  w-full  '>
+   <div   className='flex justify-evenly md:flex md:flex-col md:justify-evenly  items-center  w-full  '>
 
-<div className=' p-2 '>
+<div className=' p-2 md:w-96 '>
 <div className='flex flex-col  border shadow-md rounded-lg   justify-center items-center '>
      
      <div className='w-44  pt-5   '>
@@ -171,7 +173,7 @@ by the founders, who each of them has a common end objective to innovate new cre
           </div> 
   </div>
    </div>
-   <div className=' p-2 '>
+   <div className=' p-2 w-96 '>
 <div className='flex flex-col  border shadow-md rounded-lg   justify-center items-center '>
      
      <div className='w-44  pt-5   '>
@@ -194,7 +196,7 @@ by the founders, who each of them has a common end objective to innovate new cre
           </div> 
   </div>
    </div>
-   <div className=' p-2 '>
+   <div className=' p-2 w-96 '>
 <div className='flex flex-col  border shadow-md rounded-lg   justify-center items-center '>
      
      <div className='w-44  pt-5   '>
@@ -217,7 +219,8 @@ by the founders, who each of them has a common end objective to innovate new cre
           </div> 
   </div>
    </div>
-   <div className=' p-2 '>
+  
+   <div className=' p-2 w-96 '>
 <div className='flex flex-col  border shadow-md rounded-lg   justify-center items-center '>
      
      <div className='w-44  pt-5   '>
@@ -243,8 +246,10 @@ by the founders, who each of them has a common end objective to innovate new cre
 
   
 </div>
+<br/>
+ <hr/>
    <div className='flex mt-10 mb-10 justify-evenly md:flex md:flex-col md:justify-center md:self-center '>
-    <div className='p-3 '>
+    <div className='p-3 w-96 '>
   <h1 className='font-semibold text-center'>PT Dwidasa Samsara IndonesiaRuko</h1>   Jalur Sutera 29A No. 53  Alam Sutera Serpong, Tangerang 15323 
     </div>
     <div className='p-3 '>
