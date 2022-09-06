@@ -42,7 +42,7 @@ Managed by a team of professional experts with extensive experience and impressi
          <img src='/pana-1.png' className='w-4/5 h-4/5  '  />
         </div>
         <div  className='w-1/2 flex flex-col  justify-center items-center' > 
-<h1  className='px-14 text-3xl font-semibold'>
+<h1  className='mt-9 px-14 text-3xl font-semibold'>
 Welcome to <font color="#FF2626">Dwidasa Samsara Indonesia (DSI)</font>
       
 </h1>
