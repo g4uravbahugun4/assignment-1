@@ -151,7 +151,7 @@ by the founders, who each of them has a common end objective to innovate new cre
     </div>
    <div   className='flex justify-evenly md:flex md:flex-col md:justify-evenly  items-center  w-full  '>
 
-<div className=' p-2 md:w-96 '>
+<div className=' p-2 w-96 '>
 <div className='flex flex-col  border shadow-md rounded-lg   justify-center items-center '>
      
      <div className='w-44  pt-5   '>
