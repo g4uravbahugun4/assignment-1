@@ -2,7 +2,7 @@ import React from 'react'
 
 function Navbar() {
   return (
-   <main className='w-full bg-gray-50 flex   sticky  justify-center p-3 '>
+   <main className='w-screen bg-gray-50 flex   justify-center p-3 '>
 
  
     

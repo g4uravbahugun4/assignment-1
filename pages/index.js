@@ -11,23 +11,23 @@ function Index() {
 <>
  <Navbar />
     <div className=' flex flex-col'>
-      <div className='flex w-full  justify-center items-center '>
-        <div  className='w-1/2' > 
+      <div className='flex w-full mt-52 justify-center items-center md:justify-evenly '>
+        <div  className='' > 
 <h1  className='px-14 text-4xl font-semibold'>
 Making the most of the ever-growing 
 </h1> <h1  className='px-14 text-4xl text-red-500 font-semibold'>Information Technology</h1>
 
 <p className='px-14 pt-5'>
 Managed by a team of professional experts with extensive experience and impressive track records
-</p>
-<span className='p-8 w-4/5 flex justify-center items-center '>
+
+<span className='p-8  flex justify-center items-center '>
               <button className='px-4 py-2 rounded-md shadow-md hover:bg-rose-700   text-white border bg-rose-500 '>
   Reade More
 </button>
-</span>
+</span></p>
 
         </div> 
-        <div className='w-1/2  '>
+        <div className='  '>
          <img src='/pana.png' className='w-4/5'  />
         </div>
       
@@ -36,12 +36,12 @@ Managed by a team of professional experts with extensive experience and impressi
    <div  className='flex  '>
 
  
-   <div className='flex w-full  bg-slate-100   '>
+   <div className='flex w-full bg-slate-100   '>
         
-   <div className='w-1/2 flex justify-end '>
-         <img src='/pana-1.png' className='w-4/5 h-4/5  '  />
+   <div className=' flex justify-end ml-20 '>
+         <img src='/pana-1.png' className='h-1/2 mt-[10rem]  '  />
         </div>
-        <div  className='w-1/2 flex flex-col  justify-center items-center' > 
+        <div  className=' flex flex-col  justify-center items-center mt-[10rem] mb-[10rem]' > 
 <h1  className='mt-9 px-14 text-3xl font-semibold'>
 Welcome to <font color="#FF2626">Dwidasa Samsara Indonesia (DSI)</font>
       
@@ -50,7 +50,7 @@ Welcome to <font color="#FF2626">Dwidasa Samsara Indonesia (DSI)</font>
 Dwidasa Samsara Indonesia (DSI) was firstly established in 2010 
 by the founders, who each of them has a common end objective to innovate new creations by making the most of the ever-growing information technology through <font color="#FF2626"> (DSI)</font>’s distinct front-end based application concept. </p><p className='px-14 pt-5 '>  Managed by a team of professional experts with extensive experience and impressive track records,<font color="#FF2626"> (DSI)</font>  believes that continuous improvements and innovations assure your business to run effectively and efficiently.
 </p>
-<span className='p-8 w-4/5 flex justify-center items-center '>
+<span className='p-8  flex justify-center items-center '>
                 <button className='px-4 py-2 rounded-md shadow-md hover:bg-rose-700   text-white border bg-rose-500 '>
   Reade More
 </button>
@@ -69,7 +69,7 @@ by the founders, who each of them has a common end objective to innovate new cre
     Product and Service
     </h1>
     </div>
-   <div   className='flex md:flex md:flex-col  justify-between  '>
+   <div   className='flex md:flex md:flex-col  justify-between mb-[10rem] '>
 
    
    <div className='flex flex-col md:mt-14    justify-center items-center '>
@@ -149,7 +149,7 @@ by the founders, who each of them has a common end objective to innovate new cre
    Mobile Specialist
     </h1>
     </div>
-   <div   className='flex justify-evenly md:flex md:flex-col md:justify-evenly  items-center  w-full  '>
+   <div   className='mb-[5rem] flex justify-evenly md:flex md:flex-col md:justify-evenly  items-center  w-full  '>
 
 <div className=' p-2 w-96 '>
 <div className='flex flex-col  border shadow-md rounded-lg   justify-center items-center '>
